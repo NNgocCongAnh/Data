@@ -1,0 +1,12 @@
+
+# Đường dẫn tới thư mục gốc dataset
+path: d:/Work/Ultralystic/project-7.1
+train: images/train  # Thư mục ảnh train
+val: images/val      # Thư mục ảnh validation
+test: images/test    # Thư mục ảnh test
+
+# Số lượng lớp
+nc: 6
+
+# Tên các lớp
+names: ['Nối', 'Trắc nghiệm', 'Tự luận', 'Điền từ', 'Đặt tính rồi tính','None']

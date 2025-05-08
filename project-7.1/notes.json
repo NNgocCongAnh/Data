@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "None"
+    },
+    {
+      "id": 1,
+      "name": "N\u1ed1i"
+    },
+    {
+      "id": 2,
+      "name": "Tr\u1eafc nghi\u1ec7m"
+    },
+    {
+      "id": 3,
+      "name": "T\u1ef1 lu\u1eadn"
+    },
+    {
+      "id": 4,
+      "name": "\u0110i\u1ec1n t\u1eeb"
+    },
+    {
+      "id": 5,
+      "name": "\u0110\u1eb7t t\u00ednh r\u1ed3i t\u00ednh"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
