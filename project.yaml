@@ -1,0 +1,16 @@
+names:
+- Lớn nhỏ bằng
+- Nối
+- Tiêu đề
+- Trắc nghiệm
+- Tính giá trị biểu thức
+- Tự luận
+- Vẽ
+- Điền từ
+- Đúng/ Sai
+- Đặt tính rồi tính
+nc: 10
+path: D:\Work\Ultralystic\finall\project\data
+test: images/test
+train: images/train
+val: images/val

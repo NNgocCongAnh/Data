@@ -1,0 +1,6 @@
+# Các thư viện sử dụng trong project
+opencv-python>=4.5.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+ultralytics>=8.0.0
+torch>=1.13.0
